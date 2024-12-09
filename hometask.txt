@@ -1,0 +1,2 @@
+1. наличие в ветке origin:demo коммитов boots и dots
+2. 5 коммитов: init, heat added, README added, boots, dots
